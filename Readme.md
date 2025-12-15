@@ -1,4 +1,4 @@
-# Hi 👋 I'm Amal Chegdali
+# About Me 👋 I'm Amal Chegdali
 
 🎓 Software Engineering Student  
 💻 Full-Stack Developer  
@@ -36,15 +36,7 @@
 - JWT Authentication
 - CSRF Protection
 - Cryptography (OpenSSL, RSA, Certificates)
-
----
-
-## 📂 Academic & Professional Projects
-- 🕊️ **Ekram** – Death Declaration Management System  
-- 🧩 Microservices Architecture (API Gateway, Eureka, Config Server)
-- 📱 Mobile applications with Flutter
-- 🌐 REST APIs with Spring Boot & .NET
-
+  
 ---
 
 ## 📫 Contact Me
@@ -56,3 +48,4 @@
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me!*
+
