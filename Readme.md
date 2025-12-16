@@ -118,12 +118,13 @@ I have worked on several **academic, personal, and internship projects**, coveri
   [https://www.linkedin.com/in/amal-chegdali-37a5b9239/](https://www.linkedin.com/in/amal-chegdali-37a5b9239/)
 
 * 🐙 **GitHub**:
-  [https://github.com/Amal23-Hub](https://github.com/Amal23-Hub)
+  [https://github.com/AmalChegdali](https://github.com/AmalChegdali)
 
 * 📧 **Email**:
-  [a.chegdali@gmail.com(mailto:a.chegdali@gmail.com)
+  [a.chegdali01@gmail.com(mailto:a.chegdali01@gmail.com)
 
 ---
 
 ⭐ *This profile is based on my CV, but it represents only part of my work.*
 📌 *Feel free to explore my repositories to discover more projects and technical experiments.*
+
