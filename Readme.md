@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Amal Chegdali
 
-🎓 **Final-Year Software Engineering Student**
-💻 **Full-Stack Developer | DevOps & Cloud Enthusiast**
-🌍 Passionate about **Web, Mobile & Microservices Architectures**
+💼 **Software Engineer**
+🚀 **Full-Stack Developer | Java • Spring Boot • Angular | DevOps & Cloud Enthusiast**
+🌍 Passionate about **Scalable Applications, Microservices, Cloud Technologies, and Modern Software Architecture**
 
 ---
 
 ## 🚀 About Me
 
-I am a final-year Software Engineering student specializing in **Computer Networks, Development, and DevOps practices**. I am passionate about building scalable applications, designing clean architectures, and continuously learning new technologies.
+I am a Software Engineer specializing in Full-Stack Development, Computer Networks, and DevOps practices. I am passionate about building scalable applications, designing clean and maintainable architectures, and continuously learning emerging technologies.
 
-I have worked on several **academic, personal, and internship projects**, covering **web, mobile, and microservices-based systems**, with a strong focus on **security, cloud computing, and best development practices**.
+I have contributed to academic, personal, and professional projects involving web, mobile, and microservices-based systems, with a strong focus on software quality, security, cloud computing, and modern development practices. I enjoy solving complex technical challenges and delivering reliable, efficient, and user-centered solutions.
 
 ---
 
